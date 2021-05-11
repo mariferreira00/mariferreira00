@@ -10,8 +10,10 @@
 <a target="_blank" href="https://www.instagram.com/maria.wferreira/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <a target="_blank" href="mailto:mari.ferreira.mf94@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />
 </a>
+  
+  
 
 - 🌱 I’m currently learning **Python, C# and MySql. Next i'll engage with .NET, Node.js and learn more of english.**
 
