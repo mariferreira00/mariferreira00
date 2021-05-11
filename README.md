@@ -18,7 +18,7 @@
 - ❓  Ask me about Python, C#  
   
 
-- ⚡ Fun fact : All the women in my family have Maria in their name ... So to differentiate I received some lovely nicknames from family and friends, they range from Mari until Ma (the latter I particularly like a lot! haha)  
+- ⚡ Fun fact : All the women in my family have Maria in their name ... So to differentiate I received some lovely nicknames from family and friends, they range from "Mari" until "Ma" (the latter I particularly like a lot! haha)  
   
 
 <br/>  
