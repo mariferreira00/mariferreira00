@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Ferreira</h1>
 <h3 align="center">Web development student since 2021, passionate about technology! I intend to specialize in the back end area. As a Developer my main goal in the IT area is to be able to develop smart solutions, I understand that however simple it may be, those can help and impact the work of other people.</h3>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
   
   
