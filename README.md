@@ -6,7 +6,7 @@
 
 
 ### Hi ! I'm Maria Ferreira :)  
-### <div align="center">Web development student since 2021, passionate about technology! I want to specialize in the Back end area. As a Developer my main goal in the IT area is develop smart solutions, I understand that however simple it may be, those can help and impact the work of other people.</div>  
+### <div align="center">Web development student since 2021, passionate about technology! I want to specialize in the Back End area. As a Developer my main goal is to develop smart solutions, I understand that no matter how simple they are, they can help and impact other people's work.</div>  
   
 
 - 🔭 ’I’m currently studying in Blue Edtech  
