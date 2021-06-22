@@ -15,7 +15,7 @@
 - 🌱  I’m currently learning Python, C# and MySql. Next i'll engage with .NET, Node.js and learn more of english.  
   
 
-- ❓  Ask me about Python, C#  
+- ❓  Ask me about C#  
   
 
 - ⚡ Fun fact : All the women in my family have Maria in their name ... So to differentiate I received some lovely nicknames from family and friends, they range from "Mari" until "Ma" (the latter I particularly like a lot! haha)  
