@@ -12,7 +12,7 @@
 - 🔭 ’I’m currently studying in Blue Edtech  
   
 
-- 🌱  I’m currently learning Python, C# and MySql. Next i'll engage with .NET, Node.js and learn more of english.  
+- 🌱  I’m currently learning .NET Core, Java and MySql. Next i'll engage with Node.js and learn more of english.  
   
 
 - ❓  Ask me about C#  
@@ -34,7 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://www.pikpng.com/pngl/m/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" alt="Java" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -47,7 +46,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://www.pikpng.com/pngl/m/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" alt="Java" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
