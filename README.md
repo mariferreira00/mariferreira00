@@ -9,10 +9,10 @@
 ### <div align="center">Web development student since 2021, misunderstood gamer in my spare time, and passionate about technology! I want to specialize in the Back End area. As a Developer, my main goal is to develop smart solutions, I understand that no matter how simple they are, they can help and impact other people's work and lives.</div>  
   
 
-- 🔭 ’I’m currently studying in Blue Edtech  
+- 🔭 ’I’m currently working on Bionexo, a Brazilian HealthTech
   
 
-- 🌱  I’m currently learning .NET Core, Java and MySql. Next i'll engage with Node.js and learn more of english.  
+- 🌱  I’m currently working with .NET, ASP.NET, React.Js and Java (just for mobile apps)
   
 
 - ❓  Ask me about C#  
