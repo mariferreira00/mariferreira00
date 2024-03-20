@@ -6,7 +6,7 @@
 
 
 ### Hi ! I'm Maria Ferreira :)  
-### <div align="center">Web development student since 2021, misunderstood gamer in my spare time, and passionate about technology! I want to specialize in the Back End area. As a Developer, my main goal is to develop smart solutions, I understand that no matter how simple they are, they can help and impact other people's work and lives.</div>  
+### <div align="center">Web development student since 2019, misunderstood gamer in my spare time, and passionate about technology! I want to specialize in the Back End area. As a Developer, my main goal is to develop smart solutions, I understand that no matter how simple they are, they can help and impact other people's work and lives.</div>  
   
 
 - 🔭 ’I’m currently working on Bionexo, a Brazilian HealthTech
